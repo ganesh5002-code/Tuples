@@ -16,3 +16,7 @@ else:
 
     
 
+number = [4,3,2,2,3,4]
+reverse = number.reverse
+if number == reverse:
+    print("This is a palindrome")
